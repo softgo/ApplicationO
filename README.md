@@ -17,3 +17,5 @@ This is a platform project for java .
 联系方式QQ: 1577620678
 
 这套中没有添加多数据源处理。 T 中是带有多数据源操作的！
+
+如有疑问，可以QQ联系。
